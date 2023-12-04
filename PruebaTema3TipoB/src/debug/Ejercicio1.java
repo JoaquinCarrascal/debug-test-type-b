@@ -44,7 +44,7 @@ public class Ejercicio1 {
 				
 		}
 		
-		return pack(result, pos);
+		return result;
 	}
 	
 	
@@ -76,7 +76,7 @@ public class Ejercicio1 {
 			if (arr[i] == n)
 				result++;
 		}
-		return result+1;
+		return result;
 	}
 	
 	
